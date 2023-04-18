@@ -1,2 +1,1 @@
-# pics
-用于图床
+Github图床
